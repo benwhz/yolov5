@@ -1,0 +1,1 @@
+python detect.py --weights ./ptfiles/goods.pt --source ./data/frames/ --imgsz 1280 --conf-thres 0.5
